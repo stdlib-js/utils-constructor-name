@@ -296,6 +296,12 @@ v = constructorName( new Person2() );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   [`@stdlib/utils/function-name`][@stdlib/utils/function-name]: determine a function's name.
+
 </section>
 
 <!-- /.related -->
@@ -356,6 +362,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/utils-constructor-name/main/LICENSE
+
+<!-- <related-links> -->
+
+[@stdlib/utils/function-name]: https://github.com/stdlib-js/utils-function-name
+
+<!-- </related-links> -->
 
 </section>
 
