@@ -20,7 +20,7 @@ limitations under the License.
 
 # Constructor Name
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Determine the name of a value's constructor.
 
@@ -300,7 +300,7 @@ v = constructorName( new Person2() );
 
 ## See Also
 
--   [`@stdlib/utils/function-name`][@stdlib/utils/function-name]: determine a function's name.
+-   <span class="package-name">[`@stdlib/utils/function-name`][@stdlib/utils/function-name]</span><span class="delimiter">: </span><span class="description">determine a function's name.</span>
 
 </section>
 
@@ -351,8 +351,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/utils-constructor-name/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/utils-constructor-name?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/utils-constructor-name.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/utils-constructor-name/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
