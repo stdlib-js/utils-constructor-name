@@ -39,7 +39,8 @@
   "dependencies": {
     "@stdlib/assert-is-buffer": "^0.0.8",
     "@stdlib/regexp-function-name": "^0.0.7",
-    "@stdlib/utils-native-class": "^0.0.8"
+    "@stdlib/utils-native-class": "^0.0.8",
+    "@stdlib/error-tools-fmtprodmsg": "^0.0.2"
   },
   "devDependencies": {
     "@stdlib/array-buffer": "github:stdlib-js/array-buffer#main",
