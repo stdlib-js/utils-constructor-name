@@ -308,7 +308,7 @@ v = constructorName( new Person2() );
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/utils/function-name`][@stdlib/utils/function-name]</span><span class="delimiter">: </span><span class="description">determine a function's name.</span>
+-   <span class="package-name">[`@stdlib/utils-function-name`][@stdlib/utils/function-name]</span><span class="delimiter">: </span><span class="description">determine a function's name.</span>
 
 </section>
 
