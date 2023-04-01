@@ -42,7 +42,7 @@
     "@stdlib/utils-native-class": "^0.0.8"
   },
   "devDependencies": {
-    "@stdlib/array-buffer": "github:stdlib-js/array-buffer#main",
+    "@stdlib/array-buffer": "^0.0.6",
     "@stdlib/array-float32": "^0.0.6",
     "@stdlib/array-float64": "^0.0.6",
     "@stdlib/array-int16": "^0.0.6",
