@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import constructorName from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-constructor-name@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/utils-constructor-name/tags). For example,
+
+```javascript
 import constructorName from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-constructor-name@v0.1.1-deno/mod.js';
 ```
 
@@ -161,7 +166,7 @@ import Uint32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-uint32@deno
 import ArrayBuffer from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-buffer@deno/mod.js';
 import Buffer from 'https://cdn.jsdelivr.net/gh/stdlib-js/buffer-ctor@deno/mod.js';
 import Symbol from 'https://cdn.jsdelivr.net/gh/stdlib-js/symbol-ctor@deno/mod.js';
-import constructorName from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-constructor-name@v0.1.1-deno/mod.js';
+import constructorName from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-constructor-name@deno/mod.js';
 
 function noop() {
     // Do nothing...
