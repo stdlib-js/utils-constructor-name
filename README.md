@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import constructorName from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-constructor-name@deno/mod.js';
+import constructorName from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-constructor-name@v0.2.1-deno/mod.js';
 ```
 
 #### constructorName( value )
@@ -161,7 +161,7 @@ import Uint32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-uint32@deno
 import ArrayBuffer from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-buffer@deno/mod.js';
 import Buffer from 'https://cdn.jsdelivr.net/gh/stdlib-js/buffer-ctor@deno/mod.js';
 import Symbol from 'https://cdn.jsdelivr.net/gh/stdlib-js/symbol-ctor@deno/mod.js';
-import constructorName from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-constructor-name@deno/mod.js';
+import constructorName from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-constructor-name@v0.2.1-deno/mod.js';
 
 function noop() {
     // Do nothing...
