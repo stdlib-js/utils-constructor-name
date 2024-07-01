@@ -39,7 +39,8 @@
   "dependencies": {
     "@stdlib/assert-is-buffer": "^0.2.1",
     "@stdlib/regexp-function-name": "^0.2.1",
-    "@stdlib/utils-native-class": "^0.2.1"
+    "@stdlib/utils-native-class": "^0.2.1",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.1"
   },
   "devDependencies": {
     "@stdlib/array-buffer": "^0.2.1",
