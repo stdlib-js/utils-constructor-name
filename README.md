@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import constructorName from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-constructor-name@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/utils-constructor-name/tags). For example,
+
+```javascript
 import constructorName from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-constructor-name@v0.2.2-esm/index.mjs';
 ```
 
@@ -166,7 +171,7 @@ import Uint32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-uint32@esm/
 import ArrayBuffer from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-buffer@esm/index.mjs';
 import Buffer from 'https://cdn.jsdelivr.net/gh/stdlib-js/buffer-ctor@esm/index.mjs';
 import Symbol from 'https://cdn.jsdelivr.net/gh/stdlib-js/symbol-ctor@esm/index.mjs';
-import constructorName from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-constructor-name@v0.2.2-esm/index.mjs';
+import constructorName from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-constructor-name@esm/index.mjs';
 
 function noop() {
     // Do nothing...
